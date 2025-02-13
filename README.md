@@ -19,15 +19,15 @@ Modules nécessaires :```bash
 Clone ou télécharge ce dépôt :
 
 git clone https://github.com/princesse404/key-logger-webhook.git
-cd keylogger-generator
+cd key-logger-webhook
 
 Exécute le script principal :
 
-python main.py
+python key-logger.pyc
 
 
     
-Suis les instructions pour personnaliser ton keylogger.
+Suis les instructions pour personnaliser ton key-logger.
 Si tu choisis le format .exe, le fichier compilé se trouvera dans le dossier spécifié.
 
 Avertissement ⚠️
